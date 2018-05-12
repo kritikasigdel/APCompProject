@@ -38,11 +38,11 @@ public class GameObject {
     /**
      * Largest possible x coordinate - you may change this in GameObject.java
      */
-    public static final int screenWidth = 600;
+    public static final int screenWidth = 1800;
     /**
      * Largest possible y coordinate - you may change this in GameObject.java
      */
-    public static final int screenHeight = 600;
+    public static final int screenHeight =1000;
     // Whether the game is over
     private static boolean gameIsOver = true;
     // Key interpreter
